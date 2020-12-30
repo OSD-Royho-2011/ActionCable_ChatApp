@@ -16,7 +16,7 @@ pipeline {
         stage('Deploy') { 
             steps {
                 // 
-                echo "D"
+                echo "D123"
                 echo "D123456"
             }
         }
